@@ -29,7 +29,7 @@ test/fixtures/wrapper/
 
 IV. Create Terraform module
 
-
+V. Create `kitchen.yml`
 
 
 
