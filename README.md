@@ -22,3 +22,10 @@ ssh-keygen \
   -t rsa
 ```
 
+III. Create Test Fixture TF configuration
+
+test/fixtures/wrapper/
+
+
+
+
