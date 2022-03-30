@@ -31,5 +31,12 @@ IV. Create Terraform module
 
 V. Create `kitchen.yml`
 
+VI. Create Gemfile adn install bundler
+```
+$ gem install bundler
+$ bundle install
+```
+Test the Terraform module using multiple platforms by mimicking the following Bash script.
 
+testtfmodule.sh
 
