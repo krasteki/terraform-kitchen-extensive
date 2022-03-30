@@ -27,5 +27,9 @@ III. Create Test Fixture TF configuration
 test/fixtures/wrapper/
 
 
+IV. Create Terraform module
+
+
+
 
 
